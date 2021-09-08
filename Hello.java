@@ -2,7 +2,7 @@ public class Hello{
 
     public static void main(String[] args){
     
-        Runtime.getRuntime().exec("cls");
+        System.out.print ('\f');
         
     }
 }
